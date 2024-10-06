@@ -188,7 +188,7 @@ span{
 }
 
 .home-content .item img {
-    margin: 4rem 6.8rem;
+    margin: 4rem 8.6rem;
     border: 2px solid #b74b4b;
     height: 200px;
     width: 200px;
@@ -207,7 +207,7 @@ span{
     border: 2px solid #b74b4b;
     transition: 0.3s ease;
     cursor: pointer;
-    margin: -2.1rem 3.25rem;
+    margin: -2.1rem 4rem;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -233,7 +233,7 @@ span{
     border: 2px solid #b74b4b;
     transition: 0.3s ease;
     cursor: pointer;
-    margin: 2.75rem 3.25rem;
+    margin: 2.75rem 4rem;
     align-items: center;
     justify-content: center;
     text-align: center;
