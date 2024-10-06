@@ -184,7 +184,7 @@ span{
     align-items: center;
     justify-content: center;
     height: 410px;
-    width: 330px;
+    width: 365px;
 }
 
 .home-content .item img {
@@ -207,7 +207,7 @@ span{
     border: 2px solid #b74b4b;
     transition: 0.3s ease;
     cursor: pointer;
-    margin: -2.1rem 2.75rem;
+    margin: -2.1rem 3.25rem;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -233,7 +233,7 @@ span{
     border: 2px solid #b74b4b;
     transition: 0.3s ease;
     cursor: pointer;
-    margin: 2.75rem 2.75rem;
+    margin: 2.75rem 3.25rem;
     align-items: center;
     justify-content: center;
     text-align: center;
